@@ -1,4 +1,6 @@
  pull request - add reviewer 
  fork 
  resolve conflict merge , stash code , commit
+ save to file somebody where
+
  
